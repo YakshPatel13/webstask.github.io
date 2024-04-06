@@ -1,0 +1,56 @@
+[
+    {   
+    "id": 1,
+    "service": "AC Repair",
+    "img": "./service_images/ac_ser.jpg",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 2,
+    "service": "Carpenter",
+    "img": "./service_images/carpenter.jpg",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 3,
+    "service": "House Cleaning",
+    "img": "./service_images/cleaner_2.png",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 4,
+    "service": "House Cleaning",
+    "img": "./service_images/cleaner_2.png",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 5,
+    "service": "Bathroom Cleaning",
+    "img": "./service_images/cleaner.png",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 6,
+    "service": "Electrician",
+    "img": "./service_images/electrician.jpg",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 7,
+    "service": "Electrician",
+    "img": "./service_images/electrician.jpg",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 8,
+    "service": "House Painting",
+    "img": "./service_images/cleaner.png",
+    "alt_img": "foto de perfil"
+    },
+    {   
+    "id": 9,
+    "service": "Plumber",
+    "img": "./service_images/plumber.jpg",
+    "alt_img": "foto de perfil"
+    }
+]
